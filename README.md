@@ -1,10 +1,19 @@
 # SaadSalim
 
+### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) 👋
+
+<br />
+<br />
+
+Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder from Bangladesh.
+
 <p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
 
 ![](https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/myself.gif)
 
 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* 🚂   
+
+* 🔭 I’m currently working on python tkinter module based project.
 
 * 🤔   Interested in *Cyber Security and IOT*.
 
