@@ -49,13 +49,11 @@ I am currently digging deep into *Networking Design and Security using Cisco Pac
 </div>
   
   
-  <details>
-  <summary>My Github Status</summary>
-  <br>
+<a href="https://github.com/saadahmesalim/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
+</a>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&&show_icons=true&title_color=c095e3&icon_color=95dfe3&text_color=ffffff&bg_color=231f20" alt="Saad's Github Stats" alt="Saad's Github Status" />
-</p>
-
-
-</details>
+<a href="https://github.com/saadahmedsalim/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmedsalim&layout=compact&theme=radical" />
+</a>
