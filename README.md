@@ -48,13 +48,13 @@ I am currently digging deep into *Networking Design and Security using Cisco Pac
  
  <p> <b><i>My 2020 Contribution</i></b>
 <a href="https://github.com/saadahmedsalim">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
 </a>
 
 </p>
 <p><b><i>My All time Contributions</i></b></p>
 
-<a href="https://github.com/saadahmesalim">
+<a href="https://github.com/saadahmesalim/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
 </a>
   
