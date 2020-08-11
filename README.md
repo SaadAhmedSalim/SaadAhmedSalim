@@ -52,17 +52,17 @@ I am currently digging deep into *Networking Design and Security using Cisco Pac
 </a>
 
 </p>
-
-<p> <b><i>My All time Contributions</i></b>
-<a href="https://github.com/saadahmesalim/github-readme-stats">
+<b><i>My All time Contributions</i></b>
+<a href="https://github.com/saadahmesalim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
 </a>
- </p>
-
-<a href="https://github.com/saadahmedsalim/github-readme-stats">
+  
+  <a href="https://github.com/saadahmedsalim/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmedsalim&hide=javascript&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&hide=javascript&theme=tokyonight" />
 </a>
+
+
 
 <div align="center">
 
