@@ -59,11 +59,15 @@ I am currently digging deep into *Networking Design and Security using Cisco Pac
   
   <a href="https://github.com/saadahmedsalim/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&hide=javascript&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedsalim&&theme=tokyonight" />
 </a>
 
 
+*Visitor count↴*
 
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/saadahmedsalim/count.svg" />
+</p>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
