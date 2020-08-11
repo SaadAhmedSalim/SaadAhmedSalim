@@ -52,7 +52,8 @@ I am currently digging deep into *Networking Design and Security using Cisco Pac
 </a>
 
 </p>
-<b><i>My All time Contributions</i></b>
+<p><b><i>My All time Contributions</i></b></p>
+
 <a href="https://github.com/saadahmesalim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
 </a>
