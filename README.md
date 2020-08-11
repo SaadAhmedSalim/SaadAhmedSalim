@@ -60,7 +60,7 @@ I am currently digging deep into *Networking Design and Security using Cisco Pac
   
   <a href="https://github.com/saadahmedsalim/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedsalim&&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedsalim&count_fork=false&theme=tokyonight" />
 </a>
 
 
