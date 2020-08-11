@@ -1,7 +1,7 @@
 # SaadSalim
 
 ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=blue&style=plastic" alt="saadahmedsalim" /> </p>
 <br />
 <br />
 
