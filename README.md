@@ -1,7 +1,7 @@
 # SaadSalim
 
 ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=blue&style=plastic" alt="saadahmedsalim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" /> </p>
 <br />
 Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder from Bangladesh.
 
