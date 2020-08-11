@@ -3,8 +3,6 @@
 ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=blue&style=plastic" alt="saadahmedsalim" /> </p>
 <br />
-<br />
-
 Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder from Bangladesh.
 
 <p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
@@ -47,19 +45,27 @@ I am currently digging deep into *Networking Design and Security using Cisco Pac
   Mobile Number: +8801521215397 <br>
   Email: saad.salim@northsouth.edu
 </div>
-  
-  
+ 
+ <p> <b><i>My 2020 Contribution</i></b>
+<a href="https://github.com/saadahmedsalim">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
+</a>
+
+</p>
+
+<p> <b><i>My All time Contributions</i></b>
 <a href="https://github.com/saadahmesalim/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
 </a>
-
-<a href="https://github.com/saadahmedsalim/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmedsalim&layout=compact&theme=radical" />
-</a>
+ </p>
 
 <a href="https://github.com/saadahmedsalim/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmedsalim&hide=javascript&theme=tokyonight" />
 </a>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
