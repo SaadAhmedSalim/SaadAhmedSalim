@@ -1,17 +1,35 @@
 # SaadSalim
 
-### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) 👋
+### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://discord.gg/BTXB5p">
+  <img align="left" alt="Saad's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/Saad__Salim">
+  <img align="left" alt="Saad Salim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/saad-salim-a566b9160/">
+  <img align="left" alt="Saad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/SaadSalim278">
+  <img align="left" alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" /> </p>
 <br />
 Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder from Bangladesh.
 
 <p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
 
-![](https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/myself.gif)
 
-I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* 🚂   
+  <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="500" height="320" />
 
-* 🔭 I’m currently working on python tkinter module based project.
+**Talking about Personal Stuffs:**
+
+* 🔭 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* 🚂   
+
+* 🔭 I’m familiar with python tkinter module and flask based project. :wink:
 
 * 🤔   Interested in *Cyber Security and IOT*.
 
