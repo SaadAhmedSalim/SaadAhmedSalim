@@ -1,4 +1,5 @@
 # SaadSalim
+ <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="500" height="500" />
 
 ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -27,11 +28,12 @@ Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder fr
 
 <p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
 
-<br />
-
+<br>
+<br>
+<br>
   <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="500" height="320" />
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 * 🔭 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* :bowtie:   
 
