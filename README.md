@@ -8,6 +8,10 @@
 <a href="https://twitter.com/Saad__Salim">
   <img align="left" alt="Saad Salim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.facebook.com/saad.salim171">
+  <img align="left" alt="Saad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/saad-salim-a566b9160/">
   <img align="left" alt="Saad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,46 +19,98 @@
   <img align="left" alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br />
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" /> </p>
 <br />
 Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder from Bangladesh.
 
 <p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
 
+<br />
 
   <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
-* 🔭 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* 🚂   
+* 🔭 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* :bowtie:   
 
 * 🔭 I’m familiar with python tkinter module and flask based project. :wink:
 
-* 🤔   Interested in *Cyber Security and IOT*.
+* 🤔   Interested in *Cyber Security and IOT*. :heart_eyes:
 
-* 🌱   Continuously learning  *Deep Learning and Neural Networks*.
+* 🌱   Continuously learning  *Deep Learning and Neural Networks*. :sunglasses:
 
-* 🌱   Interests about *Advanced Networking System and Security*.
+* 🌱   Interests about *Advanced Networking System and Security*. :smirk:
 
-* 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/).
-
-
-
-### Favourite Programming & Command Languages & Tools 🔭🚀🔥
-<img src=https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/Cisco_logo.png> | <img src=https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/python-logo.png> | <img src=https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/java.png> | <img src=https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/logo-atom.png> | <img src=https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/pycharm.jpg> | <img src=https://github.com/SaadAhmedSalim/SaadSalim/blob/master/image/logo-gns3.png>
+* 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
 
 
+
+### Technologies & Tools 🔭🚀🔥
 <div align="center">
 
+<!-- OS -->
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<i>Follow me around the web:</i><br>
 
-  <a target="_blank" href="https://www.linkedin.com/in/saad-salim-a566b9160/">LinkedIn</a> ●
-  <a target="_blank" href="https://www.facebook.com/saad.salim171">Facebook</a> ●
-  <a target="_blank" href="https://twitter.com/Saad__Salim">Twitter</a>
-  
+<!-- Editor -->
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Code -->
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Database -->
+![](https://img.shields.io/badge/Database-mySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-ORACLE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Framework -->
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Tkinter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-.Net-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Tools -->
+![](https://img.shields.io/badge/Tool-Eclipse-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Codeblocks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Netbeans-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-CiscoPacketTracer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-bitbucket-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-GitLab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Xampp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Slack-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Package Manager -->
+![](https://img.shields.io/badge/Package_Manager-NPM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Package_Manager-Composer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Markup -->
+![](https://img.shields.io/badge/Markup-Latex-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Official -->
+![](https://img.shields.io/badge/Official-MS_Word-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Official-MS_Power_Point-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Official-MS_Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Official-MS_Access-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 </div>
+
+
 
 <div align="center">
   
