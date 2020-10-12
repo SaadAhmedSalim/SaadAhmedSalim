@@ -133,7 +133,7 @@ Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder fr
 <p><b><i>My All time Contributions</i></b></p>
 
 
-[![SaadSalim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saadahmedsalim)](https://github.com/anuraghazra/github-readme-stats)
+[![SaadSalim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaadSalim)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/saadahmesalim/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
