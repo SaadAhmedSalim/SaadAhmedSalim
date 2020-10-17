@@ -73,6 +73,17 @@ Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder fr
 * 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
 
 
+**🐱 My Github Data** 
+
+> 🏆 2 Contributions in the Year 2020
+ > 
+> 📦 333.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 26 Public Repositories
+ > 
+> 🔑 4 Private Repositories 
 
 ### Technologies & Tools 🔭🚀🔥
 <div align="center">
