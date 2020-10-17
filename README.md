@@ -1,4 +1,4 @@
- <h1 align="center">SaadSalim</h1>
+<h1 align="center">SaadSalim</h1>
  <p align="center">
     <a href="https://github.com/saadahmedsalim/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
@@ -23,8 +23,6 @@
 
 
 <p><b>Available In</b></p>
-
-
 <a href="https://discord.gg/BTXB5p">
   <img align="left" alt="Saad's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -41,21 +39,15 @@
 <a href="https://t.me/SaadSalim278">
   <img align="left" alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-
-<br>
 <br>
 <p>
 Hi, I'm <b>Saad Salim</b>, a passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.
 </p>
 <p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
-
-<br>
-<br>
 <br>
   <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="350" height="350" />
 
-
+<br>
 
 ### Recent Update (What I will do in this October):
 <p>
@@ -69,7 +61,7 @@ Hi, I'm <b>Saad Salim</b>, a passionate self-taught <b>Network Analyst</b> and <
    :wink: * I will make a github.io using gitLab (Later)
 </b>
 </p>
-
+<br>
 
 ### Talking about Personal Stuffs:
 
@@ -171,7 +163,21 @@ Hi, I'm <b>Saad Salim</b>, a passionate self-taught <b>Network Analyst</b> and <
   Email: saad.salim@northsouth.edu
 </div>
  
- <p> <b><i>My 2020 Contribution</i></b>
+<h2> Wakatime Profile </h2>
+<p>I am using wakatime since 13 October, 2020.</p>
+<p align="center">
+ <a href="https://github.com/saadahmedsalim">
+ <details>
+ <summary>Coding Activity</summary>
+<img src="https://wakatime.com/share/@SaadSalim/56101a29-4657-48c4-a253-bfa10679da5d.svg" width="500" height="500" /></details>
+ <details>
+ <summary>Languages I used</summary>
+ <img src="https://wakatime.com/share/@SaadSalim/44e776c6-28a1-438b-a328-132ee29a69fb.svg" width="500" height="500" />
+ </details>
+ </p>
+
+ 
+ <p> <b> My 2020 Contribution </b>
 <a href="https://github.com/saadahmedsalim">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
 </a>
