@@ -92,17 +92,17 @@
 
 ### Talking about Personal Stuffs:
 
-* 🔭 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* :bowtie:   
+ 🔭 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* :bowtie:   
 
-* 🔭 I’m familiar with python tkinter module and flask based project. :wink:
+ 🔭 I’m familiar with python tkinter module and flask based project. :wink:
 
-* 🤔   Interested in *Cyber Security and IOT*. :heart_eyes:
+ 🤔   Interested in *Cyber Security and IOT*. :heart_eyes:
 
-* 🌱   Continuously learning  *Deep Learning and Neural Networks*. :sunglasses:
+ 🌱   Continuously learning  *Deep Learning and Neural Networks*. :sunglasses:
 
-* 🌱   Interests about *Advanced Networking System and Security*. :smirk:
+ 🌱   Interests about *Advanced Networking System and Security*. :smirk:
 
-* 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
+ 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
 
 </div>
 
@@ -209,6 +209,9 @@
 <div>
 <h2 align="center">My Wakatime Profile </h2>
 <p align="center">I am using wakatime since 13 October, 2020.</p>
+ 
+ [![Saad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaadSalim)](https://github.com/saadahmedsalim/github-readme-stats)
+
 <p>
  <details>
  <summary>Coding Activity</summary>
