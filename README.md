@@ -1,4 +1,7 @@
+<!--Main Section -->
+
 <h1 align="center">SaadSalim</h1>
+
  <p align="center">
     <a href="https://github.com/saadahmedsalim/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
@@ -10,56 +13,53 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/saadahmedsalim/github-readme-stats?color=0088ff" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
-   </p>
+  </p>
+
+<!--Hi Section-->
 
 <div>
 <h3 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
- 
 </div>
-<!-- ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
--->
 
+<!-- Badge Section -->
 
 <p align="center">
-<a href="https://twitter.com/Saad__Salim">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Saad__Salim?label=Follow" />
-</a>
-<a href="https://www.linkedin.com/in/saad.salim171/">
-  <img alt="Linkedin: saad" src="https://img.shields.io/badge/-saad.salim171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad.salim171/" />
-</a>
-<a href="https://github.com/SaadAhmedSalim">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social" />
-</a>
- 
- </p>
- 
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/Saad__Salim?label=Follow) -->
-
-<!-- [![Linkedin: saad](https://img.shields.io/badge/-saad.salim171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad.salim171/)](https://www.linkedin.com/in/saad.salim171/)
-![GitHub followers](https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social) -->
-
-
-<p align="center"><b>Available In</b><br>
-<a href="https://discord.gg/BTXB5p">
-  <img alt="Saad's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/Saad__Salim">
-  <img alt="Saad Salim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/saad.salim171">
-  <img alt="Saad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saad-salim-a566b9160/">
-  <img alt="Saad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://t.me/SaadSalim278">
-  <img alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+  <a href="https://twitter.com/Saad__Salim">
+      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Saad__Salim?label=Follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/saad.salim171/">
+      <img alt="Linkedin: saad" src="https://img.shields.io/badge/-saad.salim171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad.salim171/" />
+ </a>
+ <a href="https://github.com/SaadAhmedSalim">
+     <img alt="GitHub followers" src="https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social" />
+ </a>
 </p>
-<br>
+
+<!-- Available Section -->
+<div>
+ <h3 align="center">Available In</h3>
+ <p align="center">
+  <a href="https://discord.gg/BTXB5p">
+    <img alt="Saad's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+ </a> &nbsp;&nbsp;
+ <a href="https://twitter.com/Saad__Salim">
+    <img alt="Saad Salim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ </a> &nbsp;&nbsp;
+ <a href="https://www.facebook.com/saad.salim171">
+   <img alt="Saad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+ </a> &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/saad-salim-a566b9160/">
+   <img alt="Saad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a> &nbsp;&nbsp;
+ <a href="https://t.me/SaadSalim278">
+   <img alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+ </p>
+</div>
+<!-- Hacker Image -->
 <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="350" height="350" />
 
-<br>
+
 <p>
 Hi, I'm <b>Saad Salim</b>, a passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.
 </p>
