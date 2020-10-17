@@ -1,7 +1,20 @@
-# SaadSalim
 
- <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="500" height="500" />
 
+<p align="center">
+ <h1>SaadSalim</h1>
+    <a href="https://github.com/saadahmedsalim/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/saadahmedsalim/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/saadahmedsalim/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/saadahmedsalim/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/saadahmedsalim/github-readme-stats?color=0088ff" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
+   </p>
+   
+ 
 ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
@@ -9,6 +22,8 @@
 [![Linkedin: saad](https://img.shields.io/badge/-saad.salim171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad.salim171/)](https://www.linkedin.com/in/saad.salim171/)
 ![GitHub followers](https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social)
 
+
+<img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="250" height="250" />
 <p><b>Available In</b></p>
 
 
@@ -31,8 +46,8 @@
 
 
 <br>
+
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" /> </p>
 <br />
 Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder from Bangladesh.
 
