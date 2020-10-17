@@ -101,6 +101,8 @@
 
 <br>
 
+<div align="center">
+
 **🐱 My Github Data** 
 
 > 🏆 2 Contributions in the Year 2020
@@ -113,6 +115,7 @@
  > 
 > 🔑 4 Private Repositories 
 
+</div>
 <br>
 
 <!-- Badges Show Off-->
@@ -210,10 +213,14 @@
  
  <!-- My Contribution Card-->
  
- <div> <h3 align="center">My 2020 Contribution </h3>
+ <div> <h3 align="center">My 2020 Contribution & Top Languages that I Used</h3>
  <p>
 <a href="https://github.com/saadahmedsalim">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
+</a>
+  <a align="center" href="https://github.com/saadahmedsalim/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedsalim&count_fork=false&theme=tokyonight" />
 </a>
 </p>
  </div>
@@ -224,15 +231,6 @@
 </a> -->
  
  <!-- My Top Language card-->
-
-<div> <h3 align="center">Top Languages that I Used </h3>
- 
-  <a href="https://github.com/saadahmedsalim/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedsalim&count_fork=false&theme=tokyonight" />
-</a>
-
-</div>
 
 <br>
 
