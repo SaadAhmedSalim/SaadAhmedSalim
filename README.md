@@ -60,11 +60,11 @@
 <!-- Hacker Image -->
 <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="350" height="350" />
 
+<br>
+
 <!-- Introduction -->
 <div>
-<p align="center">
-     A passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.
-</p>
+<p align="center">A passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.</p>
 <p align="left">I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
 </div>
 <br>
@@ -97,6 +97,9 @@
 
 * 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
 
+<!-- My Github Data show-->
+
+<br>
 
 **🐱 My Github Data** 
 
@@ -112,7 +115,9 @@
 
 <br>
 
-### Technologies & Tools 🔭🚀🔥
+<!-- Badges Show Off-->
+
+<h3 align="center"> Technologies & Tools 🔭🚀🔥 </h3>
 
 <div align="center">
 
@@ -178,18 +183,21 @@
 
 
 
-<div align="center">
-  
+<!--Contact Info -->
+
+<div align="center"> 
   <b>Contact Info:</b><br>
   Mobile Number: +8801827536121 <br>
   Mobile Number: +8801521215397 <br>
   Email: saad.salim@northsouth.edu
 </div>
- 
-<h2> Wakatime Profile </h2>
-<p>I am using wakatime since 13 October, 2020.</p>
+
+ <!-- Wakatime Show -->
+
+<div>
+<h2 align="center"> Wakatime Profile </h2>
+<p align="center">I am using wakatime since 13 October, 2020.</p>
 <p align="center">
- <a href="https://github.com/saadahmedsalim">
  <details>
  <summary>Coding Activity</summary>
 <img src="https://wakatime.com/share/@SaadSalim/56101a29-4657-48c4-a253-bfa10679da5d.svg" width="500" height="500" /></details>
@@ -198,14 +206,16 @@
  <img src="https://wakatime.com/share/@SaadSalim/44e776c6-28a1-438b-a328-132ee29a69fb.svg" width="500" height="500" />
  </details>
  </p>
-
+</div>
  
+ <!-- My Contribution Card-->
+ <div>
  <p> <b> My 2020 Contribution </b>
 <a href="https://github.com/saadahmedsalim">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
 </a>
-
 </p>
+ </div>
 
 <a href="https://github.com/saadahmesalim/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
