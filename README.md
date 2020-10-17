@@ -209,30 +209,43 @@
 </div>
  
  <!-- My Contribution Card-->
- <div>
- <p> <b> My 2020 Contribution </b>
+ 
+ <div> <h3 align="center">My 2020 Contribution </h3>
+ <p>
 <a href="https://github.com/saadahmedsalim">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
 </a>
 </p>
  </div>
 
+<!--
 <a href="https://github.com/saadahmesalim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
-</a>
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
+</a> -->
+ 
+ <!-- My Top Language card-->
+
+<div> <h3 align="center">Top Languages that I Used </h3>
+ 
   <a href="https://github.com/saadahmedsalim/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedsalim&count_fork=false&theme=tokyonight" />
 </a>
 
+</div>
+
+<br>
+
+<!-- Visitor Count -->
+
+<div align="center">
 
 *Visitor count↴*
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://profile-counter.glitch.me/saadahmedsalim/count.svg" />
 </p>
-<div align="center">
+
 
 ### Show some ❤️ by starring some of the repositories!
 
