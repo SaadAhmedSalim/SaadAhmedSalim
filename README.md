@@ -1,7 +1,5 @@
-
-
-<p align="center">
- <h1>SaadSalim</h1>
+ <h1 align="center">SaadSalim</h1>
+ <p align="center">
     <a href="https://github.com/saadahmedsalim/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
@@ -14,8 +12,9 @@
     <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
    </p>
    
- 
 ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="350" height="350" />
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Saad__Salim?label=Follow)
@@ -23,7 +22,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social)
 
 
-<img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="250" height="250" />
 <p><b>Available In</b></p>
 
 
