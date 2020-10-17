@@ -35,6 +35,19 @@ Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder fr
 <br>
   <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="500" height="320" />
 
+
+
+### Recent Update (What I will do in this October):
+<b><i>
+* I will do a project Called Library Management System with one of my friend. Details will be uploaded soon.  :tada:
+
+* I will work deeply with Raspberry Pi and thonny software. (With Team Mates) :pushpin:
+
+* I will colaborate my CSE482 Lab project. (Additionally) :sunrise:
+
+* I will make a github.io using gitLab (Later)
+</i></b>
+
 ### Talking about Personal Stuffs:
 
 * 🔭 I am currently digging deep into *Networking Design and Security using Cisco Packet Tracer* :bowtie:   
