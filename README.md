@@ -44,32 +44,30 @@
 
 
 <br>
-
 <br>
-<br />
-Hi, I'm Saad Salim, a passionate self-taught Network Analyst and Python Coder from Bangladesh.
-
+<p>
+Hi, I'm <b>Saad Salim</b>, a passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.
+</p>
 <p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
 
 <br>
 <br>
 <br>
-<br>
-<br>
-  <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="350" height="350" />
 
 
 
 ### Recent Update (What I will do in this October):
-<b><i>
-* I will do a project Called Library Management System with one of my friend. Details will be uploaded soon.  :tada:
+<b>
+ 
+    * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon.  :tada:
 
-* I will work deeply with Raspberry Pi and thonny software. (With Team Mates) :pushpin:
+    * I will work deeply with Raspberry Pi and thonny software. (With Team Mates) :pushpin: 
 
-* I will colaborate my CSE482 Lab project. (Additionally) :sunrise:
+    * I will colaborate my CSE482 Lab project. (Additionally) :sunrise:
 
-* I will make a github.io using gitLab (Later)
-</i></b>
+    * I will make a github.io using gitLab (Later)
+</b>
 
 ### Talking about Personal Stuffs:
 
