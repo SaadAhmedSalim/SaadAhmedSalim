@@ -58,16 +58,18 @@ Hi, I'm <b>Saad Salim</b>, a passionate self-taught <b>Network Analyst</b> and <
 
 
 ### Recent Update (What I will do in this October):
-<b>
- 
-    * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon.  :tada:
+<p>
+<b> 
+   :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. 
 
-    * I will work deeply with Raspberry Pi and thonny software. (With Team Mates) :pushpin: 
+:pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
 
-    * I will colaborate my CSE482 Lab project. (Additionally) :sunrise:
+:sunrise: * I will colaborate my CSE482 Lab project. (Additionally) 
 
-    * I will make a github.io using gitLab (Later)
+   :wink: * I will make a github.io using gitLab (Later)
 </b>
+</p>
+
 
 ### Talking about Personal Stuffs:
 
