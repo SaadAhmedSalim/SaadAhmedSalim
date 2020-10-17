@@ -56,17 +56,17 @@
   </a>
  </p>
 </div>
+<br>
 <!-- Hacker Image -->
 <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="350" height="350" />
 
-
-<p>
-Hi, I'm <b>Saad Salim</b>, a passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.
+<!-- Introduction -->
+<div>
+<p align="center">
+     A passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.
 </p>
-<p>I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
-<br>
-  <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/select1.gif?raw=true" width="350" height="350" />
-
+<p align="left">I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
+</div>
 <br>
 
 ### Recent Update (What I will do in this October):
