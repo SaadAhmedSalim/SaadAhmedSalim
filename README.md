@@ -1,7 +1,16 @@
 # SaadSalim
+
  <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/3105.gif?raw=true" width="500" height="500" />
 
 ### Hi there, I'm [Salim!](https://saadahmedsalim.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/Saad__Salim?label=Follow)
+[![Linkedin: saad](https://img.shields.io/badge/-saad.salim171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad.salim171/)](https://www.linkedin.com/in/saad.salim171/)
+![GitHub followers](https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social)
+
+<p><b>Available In</b></p>
+
 
 <a href="https://discord.gg/BTXB5p">
   <img align="left" alt="Saad's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -19,6 +28,7 @@
 <a href="https://t.me/SaadSalim278">
   <img align="left" alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+
 
 <br>
 <br>
