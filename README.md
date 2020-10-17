@@ -69,9 +69,11 @@
 </div>
 <br>
 
+<!-- Recent News-->
+
 ### Recent Update (What I will do in this October):
 <p>
-<b> 
+ <b> 
    :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. 
 
 :pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
@@ -79,9 +81,14 @@
 :sunrise: * I will colaborate my CSE482 Lab project. (Additionally) 
 
    :wink: * I will make a github.io using gitLab (Later)
-</b>
+ </b>
 </p>
+
 <br>
+
+<!-- Personal Talking-->
+
+<div align="center">
 
 ### Talking about Personal Stuffs:
 
@@ -97,9 +104,11 @@
 
 * 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
 
-<!-- My Github Data show-->
+</div>
 
 <br>
+
+<!-- My Github Data show-->
 
 <div align="center">
 
@@ -198,15 +207,15 @@
  <!-- Wakatime Show -->
 
 <div>
-<h2 align="center"> Wakatime Profile </h2>
+<h2 align="center">My Wakatime Profile </h2>
 <p align="center">I am using wakatime since 13 October, 2020.</p>
-<p align="center">
+<p>
  <details>
  <summary>Coding Activity</summary>
-<img src="https://wakatime.com/share/@SaadSalim/56101a29-4657-48c4-a253-bfa10679da5d.svg" width="500" height="500" /></details>
+<img align="center" src="https://wakatime.com/share/@SaadSalim/56101a29-4657-48c4-a253-bfa10679da5d.svg" width="500" height="500" /></details>
  <details>
- <summary>Languages I used</summary>
- <img src="https://wakatime.com/share/@SaadSalim/44e776c6-28a1-438b-a328-132ee29a69fb.svg" width="500" height="500" />
+ <summary align="center">Languages I used</summary>
+ <img align="center" src="https://wakatime.com/share/@SaadSalim/44e776c6-28a1-438b-a328-132ee29a69fb.svg" width="500" height="500" />
  </details>
  </p>
 </div>
