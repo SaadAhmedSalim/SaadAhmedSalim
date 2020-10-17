@@ -8,9 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: SaadAhmedSalim
     runs-on: ubuntu-latest
     steps:
-      - uses: SaadAhmedSalim/waka-readme@master
+      - uses: saadAhmedsalim/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
