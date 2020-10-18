@@ -209,6 +209,9 @@
 <div>
 <h2 align="center">My Wakatime Profile </h2>
 <p align="center">I am using wakatime since 13 October, 2020.</p>
+ <p align="center">This timing is showing my portfolio website making time.</p>
+ 
+ <img src="https://wakatime.com/badge/github/SaadAhmedSalim/My_Portfolio_Website.svg" />
  
  [![Saad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaadSalim)](https://github.com/saadahmedsalim/github-readme-stats)
 
