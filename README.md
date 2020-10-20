@@ -209,7 +209,6 @@
 <div>
 <h2 align="center">My Wakatime Profile </h2>
 <p align="center">I am using wakatime since 13 October, 2020.</p>
- <p align="center">This timing is showing my portfolio website making time.</p>
  
  <img src="https://wakatime.com/badge/github/SaadAhmedSalim/My_Portfolio_Website.svg" />
  
@@ -217,7 +216,7 @@
 
 <p>
  <details>
- <summary>Coding Activity</summary>
+ <summary align="center">Coding Activity</summary>
 <img align="center" src="https://wakatime.com/share/@SaadSalim/56101a29-4657-48c4-a253-bfa10679da5d.svg" width="500" height="500" /></details>
  <details>
  <summary align="center">Languages I used</summary>
