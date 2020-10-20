@@ -210,9 +210,13 @@
 <h2 align="center">My Wakatime Profile </h2>
 <p align="center">I am using wakatime since 13 October, 2020.</p>
  
- <img src="https://wakatime.com/badge/github/SaadAhmedSalim/My_Portfolio_Website.svg" />
+ <p align="center">
+    <img src="https://wakatime.com/badge/github/SaadAhmedSalim/My_Portfolio_Website.svg" />
+</p>
  
- [![Saad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaadSalim)](https://github.com/saadahmedsalim/github-readme-stats)
+ <!-- anuraghazra saadahmedsalim-->
+
+ [![Saad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaadSalim)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
  <details>
