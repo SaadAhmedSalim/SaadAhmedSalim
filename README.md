@@ -78,6 +78,8 @@
 
 :pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
 
+:pushpin: * I will learn socket programming and make own server for our project . (With Team Mates)  
+
 :sunrise: * I will colaborate my CSE482 Lab project. (Additionally) 
 
    :wink: * I will make a github.io using gitLab (Later)
