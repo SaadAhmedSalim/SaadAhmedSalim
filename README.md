@@ -103,6 +103,8 @@
  🌱   Continuously learning  *Deep Learning and Neural Networks*. :sunglasses:
 
  🌱   Interests about *Advanced Networking System and Security*. :smirk:
+ 
+ 🔭 I am currently doing automation (IOT) project using Thingspeak.com
 
  🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
 
