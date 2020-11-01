@@ -88,6 +88,25 @@
 
 <br>
 
+
+### Study Plan : (THIS WEEK)
+<p>
+ <b> 
+   :tada: * I will finish Library Management System soon. 
+
+:pushpin: * I will do UDEMY IOT crash course for esp32 within 4 days.  
+
+:pushpin: * I will do UDEMY 60 mins masterclass for resumes and cvs within next 2 days.  
+
+:pushpin: * I will do UDEMY machine learning and deep learning course within 15 days.  
+
+ </b>
+</p>
+
+<br>
+
+
+
 <!-- Personal Talking-->
 
 <div align="center">
