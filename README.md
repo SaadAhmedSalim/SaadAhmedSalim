@@ -71,7 +71,7 @@
 
 <!-- Recent News-->
 
-### Recent Update (What I will do in this October):
+### Recent Update (What I will do in this November):
 <p>
  <b> 
    :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. 
@@ -80,7 +80,7 @@
 
 :pushpin: * I will learn socket programming and make own server for our project . (With Team Mates)  
 
-:sunrise: * I will colaborate my CSE482 Lab project. (Additionally) 
+:sunrise: * I will learn google colab and machine learning methods thoroughly. 
 
    :wink: * I will make a github.io using gitLab (Later)
  </b>
