@@ -257,7 +257,7 @@
  <div> <h3 align="center">My 2020 Contribution & Top Languages that I Used</h3>
  <p>
 <a href="https://github.com/saadahmedsalim">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&count_private=true&hide=contribs&show_icons=true&theme=radical&line_height=27" alt="Saad's github stats"/>
 </a>
   <a align="center" href="https://github.com/saadahmedsalim/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
