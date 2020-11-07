@@ -95,6 +95,8 @@
    :tada: * I will finish Library Management System soon.
   
    :tada: * I will finish uploaded the cse331 lab soon.
+   
+   :tada: * I will finish uploaded the cse482 lab soon.
 
 :pushpin: * I will do UDEMY IOT crash course for esp32 within 4 days.  
 
