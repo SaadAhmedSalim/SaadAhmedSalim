@@ -92,7 +92,9 @@
 ### Study Plan : (THIS WEEK)
 <p>
  <b> 
-   :tada: * I will finish Library Management System soon. 
+   :tada: * I will finish Library Management System soon.
+  
+   :tada: * I will finish uploaded the cse331 lab soon.
 
 :pushpin: * I will do UDEMY IOT crash course for esp32 within 4 days.  
 
@@ -143,7 +145,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories
+> 📜 30 Public Repositories
  > 
 > 🔑 4 Private Repositories 
 
