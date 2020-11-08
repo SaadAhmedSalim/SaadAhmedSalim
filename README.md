@@ -188,7 +188,6 @@
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Tkinter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-.Net-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
@@ -248,10 +247,14 @@
 <p>
  <details>
  <summary align="center">Coding Activity</summary>
-<img align="center" src="https://wakatime.com/share/@SaadSalim/56101a29-4657-48c4-a253-bfa10679da5d.svg" width="500" height="500" /></details>
+<img align="center" src="https://wakatime.com/share/@SaadSalim/3fed501f-440e-4b32-860d-2c65f49c5c63.svg" width="500" height="500" /></details>
  <details>
  <summary align="center">Languages I used</summary>
- <img align="center" src="https://wakatime.com/share/@SaadSalim/44e776c6-28a1-438b-a328-132ee29a69fb.svg" width="500" height="500" />
+ <img align="center" src="https://wakatime.com/share/@SaadSalim/68fcad7e-7723-4923-b720-f729749de2cd.svg" width="500" height="500" />
+ </details>
+ <details>
+ <summary align="center">Editors I used</summary>
+ <img align="center" src="https://wakatime.com/share/@SaadSalim/04e4daca-d94c-4c14-8130-9871db69086f.svg" width="500" height="500" />
  </details>
  </p>
 </div>
