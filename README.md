@@ -1,3 +1,11 @@
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
 <!--Main Section -->
 
  <p align="center">
@@ -13,14 +21,8 @@
     <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
   </p>
 
-<!--Hi Section-->
-
-<div>
-<h3 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-</div>
-
 <!-- Badge Section -->
-
+ <h3 align="center">Follow me in </h3>
 <p align="center">
   <a href="https://twitter.com/Saad__Salim">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Saad__Salim?label=Follow" />
@@ -32,6 +34,7 @@
      <img alt="GitHub followers" src="https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social" />
  </a>
 </p>
+
 
 <!-- Available Section -->
 <div>
@@ -55,6 +58,14 @@
  </p>
 </div>
 <br>
+
+
+<!--Hi Section-->
+
+<div>
+<h2 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+</div>
+
 <!-- Hacker Image -->
 <img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/read.gif?raw=true" width="350" height="350" />
 
