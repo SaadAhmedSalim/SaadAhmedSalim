@@ -17,7 +17,7 @@
     </a>
     <a href="https://github.com/saadahmedsalim/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/saadahmedsalim/github-readme-stats?color=0088ff" />
-    </a><br>
+    </a><br><br>
     <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
   </p>
 
@@ -89,7 +89,7 @@
 
 :pushpin: * I will learn socket programming and make own server for our project . (With Team Mates)  
 
-:sunrise: * I will learn google colab and machine learning methods thoroughly. 
+:repeat: * I will learn google colab and machine learning methods thoroughly. 
 
    :wink: * I will make a github.io using gitLab (Later)
  </b>
@@ -101,11 +101,11 @@
 ### Study Plan : (THIS WEEK)
 <p>
  <b> 
-   :tada: * I will finish Library Management System soon.
+   :soon: * I will finish Library Management System soon.
   
-   :tada: * I will finish uploaded the cse331 lab soon.
+   :soon: * I will finish uploaded the cse331 lab soon.
    
-   :tada: * I will finish uploaded the cse482 lab soon.
+   :heavy_check_mark: * I will finish uploaded the cse482 lab soon.
 
 :pushpin: * I will do UDEMY IOT crash course for esp32 within 4 days.  
 
