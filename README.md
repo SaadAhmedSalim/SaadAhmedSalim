@@ -17,7 +17,7 @@
     </a>
     <a href="https://github.com/saadahmedsalim/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/saadahmedsalim/github-readme-stats?color=0088ff" />
-    </a>
+    </a><br>
     <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
   </p>
 
@@ -57,13 +57,11 @@
   </a>
  </p>
 </div>
-<br>
-
 
 <!--Hi Section-->
 
 <div>
-<h2 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :man_technologist:</h2>
 </div>
 
 <!-- Hacker Image -->
@@ -73,9 +71,11 @@
 
 <!-- Introduction -->
 <div>
-<p align="center">A passionate self-taught <b>Network Analyst</b> and <b>Python Coder</b> from Bangladesh.</p>
+<h2 align="center">A passionate self-taught <b>Network Analyst</b> :star2: <b>Python Lover</b>.</h2>
+<!--
 <p align="left">I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
 </div>
+-->
 <br>
 
 <!-- Recent News-->
