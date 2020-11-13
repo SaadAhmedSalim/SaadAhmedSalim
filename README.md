@@ -91,7 +91,7 @@
 
 :repeat: * I will learn google colab and machine learning methods thoroughly. 
 
-   :wink: * I will make a github.io using gitLab (Later)
+   :wink: * I will do something fishy.
  </b>
 </p>
 
