@@ -103,7 +103,7 @@
  <b> 
    :soon: * I will finish Library Management System soon.
   
-   :soon: * I will finish uploaded the cse331 lab soon.
+   :heavy_check_mark: * I will finish uploaded the cse331 lab soon.
    
    :heavy_check_mark: * I will finish uploaded the cse482 lab soon.
 
