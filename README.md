@@ -17,7 +17,10 @@
     </a>
     <a href="https://github.com/saadahmedsalim/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/saadahmedsalim/github-readme-stats?color=0088ff" />
-    </a><br><br>
+    </a>
+   <br><br>
+    <a href="https://saadahmedsalim.github.io/Git-Profile/"> <b>Check My Profile</b> </a>
+  <br><br>
     <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
   </p>
 
