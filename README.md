@@ -90,7 +90,7 @@
 
 :pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
 
-:pushpin: * I will learn socket programming and make own server for our project . (With Team Mates)  
+:pushpin: * I will learn socket programming and make own server for our project . (With Team Mates)  (done)
 
 :repeat: * I will learn google colab and machine learning methods thoroughly. 
 
