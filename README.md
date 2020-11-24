@@ -110,7 +110,7 @@
    
    :heavy_check_mark: * I will finish uploaded the cse482 lab soon.
 
-:pushpin: * I will do UDEMY IOT crash course for esp32 within 4 days.  
+:pushpin: * I will do UDEMY IOT crash course for esp32 within 4 days.  (done)
 
 :pushpin: * I will do UDEMY 60 mins masterclass for resumes and cvs within next 2 days.  
 
