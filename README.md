@@ -92,7 +92,7 @@
 
 :pushpin: * I will learn socket programming and make own server for our project . (With Team Mates)  (done)
 
-:repeat: * I will learn google colab and machine learning methods thoroughly. 
+:repeat: * I will learn google colab and machine learning methods thoroughly. (Partially done)
 
    :wink: * I will do something fishy.
  </b>
