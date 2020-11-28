@@ -86,7 +86,7 @@
 ### Recent Update (What I will do in this November):
 <p>
  <b> 
-   :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. 
+   :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. (Partially done)
 
 :pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
 
