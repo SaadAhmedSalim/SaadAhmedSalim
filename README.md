@@ -23,6 +23,8 @@
   <br><br>
     <a href="https://saadahmedsalim.github.io/Resume-CV/"> <b> My Resume</b></a>
   <br><br>
+    <a href="https://saadahmedsalim.github.io/Bio-Data/index.html"><b>Personal Details</b></a>
+  <br><br>
     <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
   </p>
 
