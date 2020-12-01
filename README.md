@@ -5,24 +5,34 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+<!--Hi Section-->
+
+<div>
+<h2 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :man_technologist:</h2>
+</div>
+
+<div>
+ <h3 align="center">
+  <a href="https://saadahmedsalim.github.io/Git-Profile/"> <b>Portfolio&nbsp;</b></a>
+    <a href="https://saadahmedsalim.github.io/Resume-CV/"> <b>&nbsp;Resume&nbsp;</b></a>
+    <a href="https://saadahmedsalim.github.io/Bio-Data/index.html"><b>&nbsp;Personal Details</b></a>
+     <br><br>
+ </h3>
+ </div>
+
 
 <!--Main Section -->
 
  <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
+     <br><br>
     <a href="https://github.com/saadahmedsalim/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/saadahmedsalim/github-readme-stats?color=0088ff" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://github.com/saadahmedsalim/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/saadahmedsalim/github-readme-stats?color=0088ff" />
     </a>
-   <br><br>
-    <a href="https://saadahmedsalim.github.io/Git-Profile/"> <b>Check My Profile</b> </a>
-  <br><br>
-    <a href="https://saadahmedsalim.github.io/Resume-CV/"> <b> My Resume</b></a>
-  <br><br>
-    <a href="https://saadahmedsalim.github.io/Bio-Data/index.html"><b>Personal Details</b></a>
-  <br><br>
-    <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
+   
   </p>
 
 <!-- Badge Section -->
@@ -60,12 +70,6 @@
    <img alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
  </p>
-</div>
-
-<!--Hi Section-->
-
-<div>
-<h2 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :man_technologist:</h2>
 </div>
 
 <!-- Hacker Image -->
