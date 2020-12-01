@@ -104,12 +104,8 @@
    :pushpin: * https://www.udemy.com/course/cisco-ccna-200-301-full-course-with-practical-labs/learn/lecture/22687537#overview
    
    :pushpin: * https://www.udemy.com/course/cisco-ccna-cyberops-secfnd-210-250-practice-exam-f/learn/quiz/494777
-   
-   :heavy_check_mark: * I will finish uploaded the cse482 lab soon.
 
-   :pushpin: * I will do UDEMY machine learning and deep learning course within 15 days.  
-
-   </b>
+   :pushpin: * I will do UDEMY machine learning and deep learning course within 15 days.</b>
   </p>
  </div>
 <br>
@@ -146,15 +142,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 4 Contributions in the Year 2020
+> 🏆 8 Contributions in the Year 2020
  > 
-> 📦 333.3 MB Used in Github's Storage 
+> 📦 393.3 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories
  > 
-> 🔑 6 Private Repositories 
+> 🔑 9 Private Repositories 
 
 </div>
 <br>
