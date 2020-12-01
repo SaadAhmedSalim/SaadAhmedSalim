@@ -65,12 +65,10 @@
    <img alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
  </p>
+ <!-- Hacker Image -->
+<img align="left" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/read.gif?raw=true" width="350" height="350" />
 </div>
 
-<!-- Hacker Image -->
-<img align="right" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/read.gif?raw=true" width="350" height="350" />
-
-<br>
 
 <!-- Introduction -->
 <div>
