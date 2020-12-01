@@ -72,28 +72,24 @@
 
 <!-- Introduction -->
 <div>
-<h2 align="center">A passionate self-taught <b>Network Analyst</b> :star2: <b>Python Lover</b>.</h2>
-<br>
-
+    <h2 align="center">A passionate self-taught <br><b>Network Analyst</b> :star2: <b>Python Lover</b>.</h2>
+  <br>
+</div>
 <!-- Recent News-->
 
-### Recent Update (What I will do in this November):
-<p>
- <b> 
-   :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. (Partially done)
 
-:pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
+### Recent Update (What I will do in this December):
+ <div>
+  <p>
+    <b> :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. (Partially done)
+  
+  :pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
 
-:pushpin: * I will learn socket programming and make own server for our project . (With Team Mates)  (done)
+  :repeat: * I will learn google colab and machine learning methods thoroughly. (Partially done)
 
-:repeat: * I will learn google colab and machine learning methods thoroughly. (Partially done)
-
-   :wink: * I will do something fishy.
- </b>
-</p>
-
-<br>
-
+  :wink: * I will do something fishy.</b>
+ </p><br>
+</div>
 
 ### Study Plan : (THIS WEEK)
 <p>
