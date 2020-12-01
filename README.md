@@ -9,9 +9,6 @@
 <!--Main Section -->
 
  <p align="center">
-    <a href="https://github.com/saadahmedsalim/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://github.com/saadahmedsalim/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/saadahmedsalim/github-readme-stats?color=0088ff" />
     </a>
@@ -79,10 +76,6 @@
 <!-- Introduction -->
 <div>
 <h2 align="center">A passionate self-taught <b>Network Analyst</b> :star2: <b>Python Lover</b>.</h2>
-<!--
-<p align="left">I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</p>
-</div>
--->
 <br>
 
 <!-- Recent News-->
@@ -197,7 +190,6 @@
 
 <!-- Database -->
 ![](https://img.shields.io/badge/Database-mySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-ORACLE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Framework -->
@@ -218,10 +210,6 @@
 ![](https://img.shields.io/badge/Tool-Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Xampp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Slack-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-<!-- Package Manager -->
-![](https://img.shields.io/badge/Package_Manager-NPM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package_Manager-Composer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Markup -->
 ![](https://img.shields.io/badge/Markup-Latex-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -288,17 +276,6 @@
 </a>
 </p>
  </div>
-
-<!--
-<a href="https://github.com/saadahmesalim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedsalim&show_icons=true&include_all_commits=true&theme=radical" alt="Saad's github stats" />
-</a> -->
- 
- <!-- My Top Language card-->
-
-<br>
-
-<!-- Visitor Count -->
 
 <div align="center">
 
