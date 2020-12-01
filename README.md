@@ -92,23 +92,26 @@
 </div>
 
 ### Study Plan : (THIS WEEK)
-<p>
- <b> 
+ <div>
+  <p>
+   <b> 
    :soon: * I will finish Library Management System soon.
   
-   :heavy_check_mark: * I will finish uploaded the cse331 lab soon.
+   :pushpin: * https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/learn/lecture/15192084#overview
+   
+   :pushpin: * https://www.udemy.com/course/ip-addressing-zero-to-hero/learn/lecture/13583818#overview
+   
+   :pushpin: * https://www.udemy.com/course/cisco-ccna-200-301-full-course-with-practical-labs/learn/lecture/22687537#overview
+   
+   :pushpin: * https://www.udemy.com/course/cisco-ccna-cyberops-secfnd-210-250-practice-exam-f/learn/quiz/494777
    
    :heavy_check_mark: * I will finish uploaded the cse482 lab soon.
 
-:pushpin: * I will do UDEMY IOT crash course for esp32 within 4 days.  (done)
+   :pushpin: * I will do UDEMY machine learning and deep learning course within 15 days.  
 
-:pushpin: * I will do UDEMY 60 mins masterclass for resumes and cvs within next 2 days.  
-
-:pushpin: * I will do UDEMY machine learning and deep learning course within 15 days.  
-
- </b>
-</p>
-
+   </b>
+  </p>
+ </div>
 <br>
 
 
