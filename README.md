@@ -8,21 +8,21 @@
 <!--Hi Section-->
 
 <div>
-<h2 align="center">Hi there, I'm Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :man_technologist:</h2>
+<h1 align="center">:man_technologist: Hi there, I'm Saad Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 
 <div>
- <h3 align="center">
+ <h2 align="center">
   <a href="https://saadahmedsalim.github.io/Git-Profile/"> <b>Portfolio&nbsp;</b></a>
     <a href="https://saadahmedsalim.github.io/Resume-CV/"> <b>&nbsp;Resume&nbsp;</b></a>
     <a href="https://saadahmedsalim.github.io/Bio-Data/index.html"><b>&nbsp;Personal Details</b></a>
-     <br><br>
- </h3>
+     <br>
+ </h2>
  </div>
 
 
 <!--Main Section -->
-
+<div>
  <p align="center">
    <img src="https://komarev.com/ghpvc/?username=saadahmedsalim&label=Views&color=brightgreen&style=plastic&label=PROFILE+VIEWS" alt="saadahmedsalim" />
      <br><br>
@@ -31,24 +31,19 @@
     </a>&nbsp;&nbsp;
     <a href="https://github.com/saadahmedsalim/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/saadahmedsalim/github-readme-stats?color=0088ff" />
-    </a>
-   
+    </a>   
   </p>
-
-<!-- Badge Section -->
+ <!-- Badge Section -->
  <h3 align="center">Follow me in </h3>
-<p align="center">
-  <a href="https://twitter.com/Saad__Salim">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Saad__Salim?label=Follow" />
-  </a>
-  <a href="https://www.linkedin.com/in/saad.salim171/">
-      <img alt="Linkedin: saad" src="https://img.shields.io/badge/-saad.salim171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad.salim171/" />
- </a>
- <a href="https://github.com/SaadAhmedSalim">
-     <img alt="GitHub followers" src="https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social" />
- </a>
-</p>
-
+   <p align="center">
+      <a href="https://www.linkedin.com/in/saad.salim171/">
+         <img alt="Linkedin: saad" src="https://img.shields.io/badge/-saad.salim171-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad.salim171/" />
+     </a>&nbsp;&nbsp;
+     <a href="https://github.com/SaadAhmedSalim">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/saadahmedsalim?label=Follow&style=social" />
+    </a>
+  </p>
+</div> 
 
 <!-- Available Section -->
 <div>
