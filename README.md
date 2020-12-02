@@ -18,16 +18,17 @@
  </h2>
  </div>
 
-<!-- Hacker Image -->
- <div align="center">
-  <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/coding-freak.gif" alt="freak" height=500px width=800px />
- </div>
-
 <!-- Introduction -->
 <div>
     <h1 align="center">A passionate self-taught <br><b>Network Analyst</b> :star2: <b>Pythonist</b>.</h1>
   <br>
 </div>
+
+<!-- Hacker Image -->
+ <div align="center">
+  <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/coding-freak.gif" alt="freak" />
+ </div>
+
 <!-- Recent News-->
 
 
