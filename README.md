@@ -20,7 +20,7 @@
 
 <!-- Hacker Image -->
  <div align="center">
-  <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/coding-freak.gif" alt="freak" />
+  <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/coding-freak.gif" alt="freak" height=500px width=800px />
  </div>
 
 <!-- Introduction -->
