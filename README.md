@@ -4,7 +4,17 @@
 *** an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
+<!--
+![GitHub stars](https://img.shields.io/github/stars/saadahmedsalim/saadahmedsalim.github.io/Git-Profile/) 
+![GitHub forks](https://img.shields.io/github/forks/saadahmedsalim/saadahmedsalim.github.io/Git-Profile/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/saadahmedsalim/saadahmedsalim.github.io/commits/master)
+<p align="center"> 
+  <kbd>
+    <a href="https://saadahmedsalim.github.io/Git-Profile/" target="_blank">
+  </a>
+  </kbd>
+</p>
+-->
 <!--Hi Section-->
 
 <div>
