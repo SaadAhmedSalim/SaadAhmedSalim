@@ -19,7 +19,6 @@
  </h2>
  </div>
 
-
 <!--Main Section -->
 <div>
  <p align="center">
@@ -64,9 +63,11 @@
    <img alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
  </p>
- <!-- Hacker Image -->
-<img align="left" alt="GIF" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/read.gif?raw=true" width="350" height="350" />
-</div>
+ </div>
+
+<!-- Hacker Image -->
+ 
+  <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/coding-freak.gif" alt="freak" />
 
 
 <!-- Introduction -->
