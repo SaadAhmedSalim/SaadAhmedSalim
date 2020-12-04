@@ -27,9 +27,16 @@
   <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/coding-freak.gif" alt="freak" />
  </div>
 
+
+<!-- Trophy added -->
+
  <div>
   <p align="center">
-<!-- Trophy added -->
+     <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+     <h2 align="center">My Github Profile Trophy</h2>
+  </p>
+
+  <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=saadahmedsalim&row=2&column=3&theme=dracula&margin-w=25)" />
    <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=saadahmedsalim&row=2&column=3&theme=dracula&margin-w=25)](https://github.com/saadahmedsalim/github-profile-trophy)
  -->
