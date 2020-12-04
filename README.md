@@ -5,7 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 <!--Hi Section-->
-
 <div>
 <h1 align="center">:man_technologist: Hi there, I'm Saad Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
@@ -21,7 +20,6 @@
 <!-- Introduction -->
 <div>
     <h1 align="center">A passionate self-taught <br><b>Network Analyst</b> :star2: <b>Pythonist</b>.</h1>
-  <br>
 </div>
 
 <!-- Hacker Image -->
@@ -29,8 +27,16 @@
   <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/coding-freak.gif" alt="freak" />
  </div>
 
+ <div>
+  <p align="center">
+<!-- Trophy added -->
+   <img src="https://github-profile-trophy.vercel.app/?username=saadahmedsalim&row=2&column=3&theme=dracula&margin-w=25)" />
+   <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=saadahmedsalim&row=2&column=3&theme=dracula&margin-w=25)](https://github.com/saadahmedsalim/github-profile-trophy)
+ -->
+   </p>
+ </div>
+ 
 <!-- Recent News-->
-
 
 ### Recent Update (What I will do in this December):
  <div>
@@ -63,8 +69,6 @@
   </p>
  </div>
 <br>
-
-
 
 <!-- Personal Talking-->
 
