@@ -71,8 +71,6 @@
    :pushpin: * https://www.udemy.com/course/cisco-ccna-200-301-full-course-with-practical-labs/learn/lecture/22687537#overview
    
    :pushpin: * https://www.udemy.com/course/cisco-ccna-cyberops-secfnd-210-250-practice-exam-f/learn/quiz/494777
-
-   :pushpin: * I will do UDEMY machine learning and deep learning course within 15 days.</b>
   </p>
  </div>
 <br>
