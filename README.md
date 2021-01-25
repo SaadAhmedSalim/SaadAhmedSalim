@@ -6,10 +6,15 @@
 -->
 <!--Hi Section-->  
 <div>
-<h1 align="center">:man_technologist: Hi there, I'm Saad Salim!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h1 align="center">:man_technologist: Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm </h2>
+ <p align="center"><img src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/banner-Saad.gif"></p>
 </div>
 
+<!-- Introduction -->
 <div>
+    <h1 align="center">A passionate self-taught <br><b>Network Analyst</b> :star2: <b>Pythonist</b>.</h1>
+</div>
+ <div>
  <h2 align="center">
   <a href="https://saadahmedsalim.github.io/Git-Profile/"> <b>Portfolio&nbsp;</b></a>
     <a href="https://saadahmedsalim.github.io/Resume-CV/"> <b>&nbsp;Resume&nbsp;</b></a>
@@ -17,10 +22,6 @@
  </h2>
  </div>
 
-<!-- Introduction -->
-<div>
-    <h1 align="center">A passionate self-taught <br><b>Network Analyst</b> :star2: <b>Pythonist</b>.</h1>
-</div>
 
 <!-- Hacker Image -->
  <div align="center">
