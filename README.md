@@ -46,14 +46,14 @@
  
 <!-- Recent News-->
 
-### Recent Update (What I will do in this December):
+### Recent Update (What I will do in this February):
  <div>
   <p>
-    <b> :tada: * I will do a project Called Library Management System with one of my friend. Details will be uploaded soon. (Partially done)
+    <b> :tada: * I will do CCNA Lab.
   
-  :pushpin: * I will work deeply with Raspberry Pi and thonny software. (With Team Mates)  
+  :pushpin: * I will work deeply with NodeMcu work for new project.  
 
-  :repeat: * I will learn google colab and machine learning methods thoroughly. (Partially done)
+  :repeat: * I will implement machine learning methods thoroughly.
 
   :wink: * I will do something fishy.</b>
  </p><br>
@@ -63,9 +63,9 @@
  <div>
   <p>
    <b> 
-   :soon: * I will finish Youtubedownloader soon(done).
+   :soon: * I will finish math courses.
     
-   :soon: * I will finish Library Management System soon.
+   :soon: * I will do ethical hacking.
   
    :pushpin: * https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/learn/lecture/15192084#overview
    
@@ -114,9 +114,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 41 Public Repositories
+> 📜 44 Public Repositories
  > 
-> 🔑 9 Private Repositories 
+> 🔑 13 Private Repositories 
 
 </div>
 <br>
