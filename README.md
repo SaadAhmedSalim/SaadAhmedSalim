@@ -46,20 +46,21 @@
  
 <!-- Recent News-->
 
-### Recent Update (What I will do in this February):
+### Recent Update (What I will do in this June and July):
  <div>
   <p>
-    <b> :tada: * I will do CCNA Lab.
+   <b> Ielts Test Preparation </b>
+<!--     <b> :tada: * I will do CCNA Lab.
   
   :pushpin: * I will work deeply with NodeMcu work for new project.  
 
   :repeat: * I will implement machine learning methods thoroughly.
 
-  :wink: * I will do something fishy.</b>
+  :wink: * I will do something fishy.</b> -->
  </p><br>
 </div>
 
-### Study Plan : (THIS WEEK)
+<!-- ### Study Plan : (THIS WEEK)
  <div>
   <p>
    <b> 
@@ -75,7 +76,7 @@
    
    :pushpin: * https://www.udemy.com/course/cisco-ccna-cyberops-secfnd-210-250-practice-exam-f/learn/quiz/494777
   </p>
- </div>
+ </div> -->
 <br>
 
 <!-- Personal Talking-->
