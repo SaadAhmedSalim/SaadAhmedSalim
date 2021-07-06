@@ -49,7 +49,7 @@
 ### Recent Update (What I will do in this June and July):
  <div>
   <p>
-   <b> Ielts Test Preparation ...</b>
+   <b> Ielts Test Preparation </b>
 <!--     <b> :tada: * I will do CCNA Lab.
   
   :pushpin: * I will work deeply with NodeMcu work for new project.  
